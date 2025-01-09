@@ -1,6 +1,6 @@
 import React from 'react'
 import Image from 'next/image'
-import { MdElectricBolt, MdEMobiledata } from 'react-icons/md';
+import { MdElectricBolt } from 'react-icons/md';
 import { FaBath, FaBed, FaSquare } from 'react-icons/fa6';
 import { BiLinkExternal } from 'react-icons/bi';
 import { BsHeart, BsPlusSquare } from 'react-icons/bs';
